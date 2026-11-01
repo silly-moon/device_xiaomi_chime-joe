@@ -4,6 +4,10 @@ Copyright (C) 2023 The LineageOS Project
 
 > **Before building:** Edit `packages/apps/Settings/res/values/lunaris_strings.xml` to set the About phone information for your build.
 
+## Maintainer
+
+`ro.lunaris.maintainer=GHOST | ゴースト`
+
 ## About the devices
 
 - **Redmi 9T / 9 Power / Note 9 4G:** A budget smartphone series from Redmi, released January 18, 2021.
