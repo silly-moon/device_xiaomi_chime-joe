@@ -35,3 +35,18 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 # Set to true for building a ROM without GAPPS
 # Set to false for building a ROM with GAPPS included
 RESERVE_SPACE_FOR_GAPPS := true
+
+# Lunaris
+TARGET_ENABLE_BLUR := true
+TARGET_BOOT_ANIMATION_RES := 1080
+
+WITH_BCR := true
+WITH_GMS := true
+WITH_PIXEL_LAUNCHER := true
+
+TARGET_SUPPORTS_GOOGLE_RECORDER := true
+TARGET_INCLUDE_WEATHER := true
+TARGET_INCLUDE_PHOTOS := true
+
+#LUNARIS_BUILD_TYPE := OFFICIAL
+
