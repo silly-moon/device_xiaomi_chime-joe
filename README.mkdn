@@ -4,7 +4,7 @@ Copyright (C) 2023 The LineageOS Project
 
 > **Before building:** Edit `packages/apps/Settings/res/values/lunaris_strings.xml` to set the About phone information for your build.
 
-## Maintainer inside `system.prop` or `product.prop`
+## Maintainer Tag inside `system.prop` or `product.prop`
 
 `ro.lunaris.maintainer=GHOST | ゴースト`
 
